@@ -1,5 +1,5 @@
- #! python3
- # seleniumTest.py - Opens a browser and clicks a link.
+#!/usr/bin/env python
+# scraper.py - Opens a browser scrapes for Indiana's county-level election results
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select, WebDriverWait
@@ -8,10 +8,14 @@ import time
 
 # Global variables
 base_url = "http://www.in.gov/apps/sos/primary/sos_primary12"
+# Or for...
+# 2016 primary: http://www.in.gov/apps/sos/primary/sos_primary16
+# 2014 primary: http://www.in.gov/apps/sos/primary/sos_primary14
+# 2014 general: http://www.in.gov/apps/sos/election/general/general2014
+# 2012 primary: http://www.in.gov/apps/sos/primary/sos_primary12
+# 2012 general: http://www.in.gov/apps/sos/election/general/general2012
+
 county_list = ["Adams","Allen","Bartholomew","Benton","Blackford","Boone","Brown","Carroll","Cass","Clar","Clay","Clinton","Crawford","Daviess","Dearborn","Decatur","DeKalb","Delaware","Dubois","Elkhart","Fayette","Floyd","Fountain","Franklin","Fulton","Gibson","Grant","Greene","Hamilton","Hancock","Harrison","Hendricks","Henry","Howard","Huntington","Jackson","Jasper","Jay","Jefferson","Jennings","Johnson","Knox","Kosciusko","LaGrange","Lake","LaPort","Lawrence","Madison","Marion","Marshall","Martin","Miami","Monroe","Montgomery","Morgan","Newton","Noble","Ohio","Orange","Owen","Parke","Perry","Pike","Porter","Posey","Pulaski","Putnam","Randolph","Ripley","Rush","Saint Joseph","Scott","Shelby","Spencer","Starke","Steuben","Sullivan","Switzerland","Tippecanoe","Tipton","Union","Vanderburgh","Vermillion","Vigo","Wabash","Warren","Warrick","Washington","Wayne","Wells","White","Whitley"]
-
-
-
 browser = webdriver.Firefox()
 browser.get(base_url)
 time.sleep(5)
@@ -39,4 +43,3 @@ for optionValue in optionsList[1:]:
         outfile.write(str(table))
     browser.back()
     time.sleep(5)
-
