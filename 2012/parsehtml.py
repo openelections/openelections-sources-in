@@ -107,6 +107,3 @@ def clean_party_text(text):
 
 if __name__ == "__main__":
     main()
-
-
-# TODO: Need to check in for rows missing 1 versus those missing two.
