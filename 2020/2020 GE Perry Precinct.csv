@@ -1,0 +1,826 @@
+Jurisdiction,CountyCode,PrecinctID,PctName,OfficeID,Reportname,CandidateID,CandidateName,TotalVotes
+"Perry County, Indiana",62,1,CANNELTON 1,1,President and VP of the US,1,(R) Trump \ Pence,87
+"Perry County, Indiana",62,2,CANNELTON 2,1,President and VP of the US,1,(R) Trump \ Pence,237
+"Perry County, Indiana",62,3,TELL CITY 1,1,President and VP of the US,1,(R) Trump \ Pence,273
+"Perry County, Indiana",62,4,TELL CITY 2,1,President and VP of the US,1,(R) Trump \ Pence,240
+"Perry County, Indiana",62,5,TELL CITY 3,1,President and VP of the US,1,(R) Trump \ Pence,237
+"Perry County, Indiana",62,6,TELL CITY 4,1,President and VP of the US,1,(R) Trump \ Pence,323
+"Perry County, Indiana",62,7,TELL CITY 5,1,President and VP of the US,1,(R) Trump \ Pence,263
+"Perry County, Indiana",62,8,TELL CITY 6,1,President and VP of the US,1,(R) Trump \ Pence,201
+"Perry County, Indiana",62,9,TELL CITY 7,1,President and VP of the US,1,(R) Trump \ Pence,207
+"Perry County, Indiana",62,10,TELL CITY 8,1,President and VP of the US,1,(R) Trump \ Pence,246
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,1,President and VP of the US,1,(R) Trump \ Pence,538
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,1,President and VP of the US,1,(R) Trump \ Pence,344
+"Perry County, Indiana",62,13,TROY,1,President and VP of the US,1,(R) Trump \ Pence,91
+"Perry County, Indiana",62,14,ANDERSON,1,President and VP of the US,1,(R) Trump \ Pence,531
+"Perry County, Indiana",62,15,CLARK 1,1,President and VP of the US,1,(R) Trump \ Pence,198
+"Perry County, Indiana",62,16,CLARK 2,1,President and VP of the US,1,(R) Trump \ Pence,174
+"Perry County, Indiana",62,17,LEOPOLD ,1,President and VP of the US,1,(R) Trump \ Pence,257
+"Perry County, Indiana",62,18,OIL,1,President and VP of the US,1,(R) Trump \ Pence,417
+"Perry County, Indiana",62,19,TOBIN,1,President and VP of the US,1,(R) Trump \ Pence,263
+"Perry County, Indiana",62,20,DERBY,1,President and VP of the US,1,(R) Trump \ Pence,97
+"Perry County, Indiana",62,21,RONO,1,President and VP of the US,1,(R) Trump \ Pence,121
+"Perry County, Indiana",62,1,CANNELTON 1,1,President and VP of the US,2,(D) Biden \ Harris,72
+"Perry County, Indiana",62,2,CANNELTON 2,1,President and VP of the US,2,(D) Biden \ Harris,153
+"Perry County, Indiana",62,3,TELL CITY 1,1,President and VP of the US,2,(D) Biden \ Harris,205
+"Perry County, Indiana",62,4,TELL CITY 2,1,President and VP of the US,2,(D) Biden \ Harris,162
+"Perry County, Indiana",62,5,TELL CITY 3,1,President and VP of the US,2,(D) Biden \ Harris,142
+"Perry County, Indiana",62,6,TELL CITY 4,1,President and VP of the US,2,(D) Biden \ Harris,197
+"Perry County, Indiana",62,7,TELL CITY 5,1,President and VP of the US,2,(D) Biden \ Harris,203
+"Perry County, Indiana",62,8,TELL CITY 6,1,President and VP of the US,2,(D) Biden \ Harris,187
+"Perry County, Indiana",62,9,TELL CITY 7,1,President and VP of the US,2,(D) Biden \ Harris,185
+"Perry County, Indiana",62,10,TELL CITY 8,1,President and VP of the US,2,(D) Biden \ Harris,171
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,1,President and VP of the US,2,(D) Biden \ Harris,367
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,1,President and VP of the US,2,(D) Biden \ Harris,184
+"Perry County, Indiana",62,13,TROY,1,President and VP of the US,2,(D) Biden \ Harris,59
+"Perry County, Indiana",62,14,ANDERSON,1,President and VP of the US,2,(D) Biden \ Harris,263
+"Perry County, Indiana",62,15,CLARK 1,1,President and VP of the US,2,(D) Biden \ Harris,71
+"Perry County, Indiana",62,16,CLARK 2,1,President and VP of the US,2,(D) Biden \ Harris,91
+"Perry County, Indiana",62,17,LEOPOLD ,1,President and VP of the US,2,(D) Biden \ Harris,128
+"Perry County, Indiana",62,18,OIL,1,President and VP of the US,2,(D) Biden \ Harris,168
+"Perry County, Indiana",62,19,TOBIN,1,President and VP of the US,2,(D) Biden \ Harris,106
+"Perry County, Indiana",62,20,DERBY,1,President and VP of the US,2,(D) Biden \ Harris,47
+"Perry County, Indiana",62,21,RONO,1,President and VP of the US,2,(D) Biden \ Harris,42
+"Perry County, Indiana",62,1,CANNELTON 1,1,President and VP of the US,3,(L) Jorgensen \ Cohen,2
+"Perry County, Indiana",62,2,CANNELTON 2,1,President and VP of the US,3,(L) Jorgensen \ Cohen,13
+"Perry County, Indiana",62,3,TELL CITY 1,1,President and VP of the US,3,(L) Jorgensen \ Cohen,5
+"Perry County, Indiana",62,4,TELL CITY 2,1,President and VP of the US,3,(L) Jorgensen \ Cohen,11
+"Perry County, Indiana",62,5,TELL CITY 3,1,President and VP of the US,3,(L) Jorgensen \ Cohen,10
+"Perry County, Indiana",62,6,TELL CITY 4,1,President and VP of the US,3,(L) Jorgensen \ Cohen,8
+"Perry County, Indiana",62,7,TELL CITY 5,1,President and VP of the US,3,(L) Jorgensen \ Cohen,10
+"Perry County, Indiana",62,8,TELL CITY 6,1,President and VP of the US,3,(L) Jorgensen \ Cohen,7
+"Perry County, Indiana",62,9,TELL CITY 7,1,President and VP of the US,3,(L) Jorgensen \ Cohen,9
+"Perry County, Indiana",62,10,TELL CITY 8,1,President and VP of the US,3,(L) Jorgensen \ Cohen,9
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,1,President and VP of the US,3,(L) Jorgensen \ Cohen,12
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,1,President and VP of the US,3,(L) Jorgensen \ Cohen,14
+"Perry County, Indiana",62,13,TROY,1,President and VP of the US,3,(L) Jorgensen \ Cohen,4
+"Perry County, Indiana",62,14,ANDERSON,1,President and VP of the US,3,(L) Jorgensen \ Cohen,14
+"Perry County, Indiana",62,15,CLARK 1,1,President and VP of the US,3,(L) Jorgensen \ Cohen,6
+"Perry County, Indiana",62,16,CLARK 2,1,President and VP of the US,3,(L) Jorgensen \ Cohen,2
+"Perry County, Indiana",62,17,LEOPOLD ,1,President and VP of the US,3,(L) Jorgensen \ Cohen,12
+"Perry County, Indiana",62,18,OIL,1,President and VP of the US,3,(L) Jorgensen \ Cohen,8
+"Perry County, Indiana",62,19,TOBIN,1,President and VP of the US,3,(L) Jorgensen \ Cohen,9
+"Perry County, Indiana",62,20,DERBY,1,President and VP of the US,3,(L) Jorgensen \ Cohen,1
+"Perry County, Indiana",62,21,RONO,1,President and VP of the US,3,(L) Jorgensen \ Cohen,8
+"Perry County, Indiana",62,1,CANNELTON 1,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,2,CANNELTON 2,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,3,TELL CITY 1,1,President and VP of the US,4,Write-In,4
+"Perry County, Indiana",62,4,TELL CITY 2,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,5,TELL CITY 3,1,President and VP of the US,4,Write-In,1
+"Perry County, Indiana",62,6,TELL CITY 4,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,7,TELL CITY 5,1,President and VP of the US,4,Write-In,1
+"Perry County, Indiana",62,8,TELL CITY 6,1,President and VP of the US,4,Write-In,1
+"Perry County, Indiana",62,9,TELL CITY 7,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,10,TELL CITY 8,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,1,President and VP of the US,4,Write-In,2
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,1,President and VP of the US,4,Write-In,1
+"Perry County, Indiana",62,13,TROY,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,14,ANDERSON,1,President and VP of the US,4,Write-In,4
+"Perry County, Indiana",62,15,CLARK 1,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,16,CLARK 2,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,17,LEOPOLD ,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,18,OIL,1,President and VP of the US,4,Write-In,1
+"Perry County, Indiana",62,19,TOBIN,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,20,DERBY,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,21,RONO,1,President and VP of the US,4,Write-In,0
+"Perry County, Indiana",62,1,CANNELTON 1,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,90
+"Perry County, Indiana",62,2,CANNELTON 2,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,227
+"Perry County, Indiana",62,3,TELL CITY 1,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,276
+"Perry County, Indiana",62,4,TELL CITY 2,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,255
+"Perry County, Indiana",62,5,TELL CITY 3,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,249
+"Perry County, Indiana",62,6,TELL CITY 4,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,342
+"Perry County, Indiana",62,7,TELL CITY 5,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,275
+"Perry County, Indiana",62,8,TELL CITY 6,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,221
+"Perry County, Indiana",62,9,TELL CITY 7,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,219
+"Perry County, Indiana",62,10,TELL CITY 8,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,276
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,580
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,341
+"Perry County, Indiana",62,13,TROY,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,90
+"Perry County, Indiana",62,14,ANDERSON,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,565
+"Perry County, Indiana",62,15,CLARK 1,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,194
+"Perry County, Indiana",62,16,CLARK 2,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,191
+"Perry County, Indiana",62,17,LEOPOLD ,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,253
+"Perry County, Indiana",62,18,OIL,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,407
+"Perry County, Indiana",62,19,TOBIN,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,255
+"Perry County, Indiana",62,20,DERBY,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,97
+"Perry County, Indiana",62,21,RONO,2,Governor and Lt Governor,5,(R) Holcomb \ Crouch,120
+"Perry County, Indiana",62,1,CANNELTON 1,2,Governor and Lt Governor,6,(D) Myers \ Lawson,57
+"Perry County, Indiana",62,2,CANNELTON 2,2,Governor and Lt Governor,6,(D) Myers \ Lawson,129
+"Perry County, Indiana",62,3,TELL CITY 1,2,Governor and Lt Governor,6,(D) Myers \ Lawson,171
+"Perry County, Indiana",62,4,TELL CITY 2,2,Governor and Lt Governor,6,(D) Myers \ Lawson,125
+"Perry County, Indiana",62,5,TELL CITY 3,2,Governor and Lt Governor,6,(D) Myers \ Lawson,114
+"Perry County, Indiana",62,6,TELL CITY 4,2,Governor and Lt Governor,6,(D) Myers \ Lawson,155
+"Perry County, Indiana",62,7,TELL CITY 5,2,Governor and Lt Governor,6,(D) Myers \ Lawson,171
+"Perry County, Indiana",62,8,TELL CITY 6,2,Governor and Lt Governor,6,(D) Myers \ Lawson,133
+"Perry County, Indiana",62,9,TELL CITY 7,2,Governor and Lt Governor,6,(D) Myers \ Lawson,158
+"Perry County, Indiana",62,10,TELL CITY 8,2,Governor and Lt Governor,6,(D) Myers \ Lawson,127
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,2,Governor and Lt Governor,6,(D) Myers \ Lawson,277
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,2,Governor and Lt Governor,6,(D) Myers \ Lawson,153
+"Perry County, Indiana",62,13,TROY,2,Governor and Lt Governor,6,(D) Myers \ Lawson,49
+"Perry County, Indiana",62,14,ANDERSON,2,Governor and Lt Governor,6,(D) Myers \ Lawson,192
+"Perry County, Indiana",62,15,CLARK 1,2,Governor and Lt Governor,6,(D) Myers \ Lawson,52
+"Perry County, Indiana",62,16,CLARK 2,2,Governor and Lt Governor,6,(D) Myers \ Lawson,64
+"Perry County, Indiana",62,17,LEOPOLD ,2,Governor and Lt Governor,6,(D) Myers \ Lawson,104
+"Perry County, Indiana",62,18,OIL,2,Governor and Lt Governor,6,(D) Myers \ Lawson,125
+"Perry County, Indiana",62,19,TOBIN,2,Governor and Lt Governor,6,(D) Myers \ Lawson,89
+"Perry County, Indiana",62,20,DERBY,2,Governor and Lt Governor,6,(D) Myers \ Lawson,37
+"Perry County, Indiana",62,21,RONO,2,Governor and Lt Governor,6,(D) Myers \ Lawson,36
+"Perry County, Indiana",62,1,CANNELTON 1,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,14
+"Perry County, Indiana",62,2,CANNELTON 2,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,33
+"Perry County, Indiana",62,3,TELL CITY 1,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,30
+"Perry County, Indiana",62,4,TELL CITY 2,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,29
+"Perry County, Indiana",62,5,TELL CITY 3,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,26
+"Perry County, Indiana",62,6,TELL CITY 4,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,26
+"Perry County, Indiana",62,7,TELL CITY 5,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,27
+"Perry County, Indiana",62,8,TELL CITY 6,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,34
+"Perry County, Indiana",62,9,TELL CITY 7,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,21
+"Perry County, Indiana",62,10,TELL CITY 8,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,21
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,53
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,44
+"Perry County, Indiana",62,13,TROY,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,12
+"Perry County, Indiana",62,14,ANDERSON,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,51
+"Perry County, Indiana",62,15,CLARK 1,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,26
+"Perry County, Indiana",62,16,CLARK 2,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,12
+"Perry County, Indiana",62,17,LEOPOLD ,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,36
+"Perry County, Indiana",62,18,OIL,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,57
+"Perry County, Indiana",62,19,TOBIN,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,29
+"Perry County, Indiana",62,20,DERBY,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,9
+"Perry County, Indiana",62,21,RONO,2,Governor and Lt Governor,7,(L) Rainwater II \ Henry,17
+"Perry County, Indiana",62,1,CANNELTON 1,3,Attorney General,8,(R) Todd Rokita,74
+"Perry County, Indiana",62,2,CANNELTON 2,3,Attorney General,8,(R) Todd Rokita,197
+"Perry County, Indiana",62,3,TELL CITY 1,3,Attorney General,8,(R) Todd Rokita,234
+"Perry County, Indiana",62,4,TELL CITY 2,3,Attorney General,8,(R) Todd Rokita,197
+"Perry County, Indiana",62,5,TELL CITY 3,3,Attorney General,8,(R) Todd Rokita,220
+"Perry County, Indiana",62,6,TELL CITY 4,3,Attorney General,8,(R) Todd Rokita,274
+"Perry County, Indiana",62,7,TELL CITY 5,3,Attorney General,8,(R) Todd Rokita,232
+"Perry County, Indiana",62,8,TELL CITY 6,3,Attorney General,8,(R) Todd Rokita,181
+"Perry County, Indiana",62,9,TELL CITY 7,3,Attorney General,8,(R) Todd Rokita,182
+"Perry County, Indiana",62,10,TELL CITY 8,3,Attorney General,8,(R) Todd Rokita,223
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,3,Attorney General,8,(R) Todd Rokita,487
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,3,Attorney General,8,(R) Todd Rokita,295
+"Perry County, Indiana",62,13,TROY,3,Attorney General,8,(R) Todd Rokita,81
+"Perry County, Indiana",62,14,ANDERSON,3,Attorney General,8,(R) Todd Rokita,440
+"Perry County, Indiana",62,15,CLARK 1,3,Attorney General,8,(R) Todd Rokita,182
+"Perry County, Indiana",62,16,CLARK 2,3,Attorney General,8,(R) Todd Rokita,159
+"Perry County, Indiana",62,17,LEOPOLD ,3,Attorney General,8,(R) Todd Rokita,205
+"Perry County, Indiana",62,18,OIL,3,Attorney General,8,(R) Todd Rokita,373
+"Perry County, Indiana",62,19,TOBIN,3,Attorney General,8,(R) Todd Rokita,231
+"Perry County, Indiana",62,20,DERBY,3,Attorney General,8,(R) Todd Rokita,90
+"Perry County, Indiana",62,21,RONO,3,Attorney General,8,(R) Todd Rokita,106
+"Perry County, Indiana",62,1,CANNELTON 1,3,Attorney General,9,(D) Jonathan Weinzapfel,78
+"Perry County, Indiana",62,2,CANNELTON 2,3,Attorney General,9,(D) Jonathan Weinzapfel,185
+"Perry County, Indiana",62,3,TELL CITY 1,3,Attorney General,9,(D) Jonathan Weinzapfel,238
+"Perry County, Indiana",62,4,TELL CITY 2,3,Attorney General,9,(D) Jonathan Weinzapfel,202
+"Perry County, Indiana",62,5,TELL CITY 3,3,Attorney General,9,(D) Jonathan Weinzapfel,160
+"Perry County, Indiana",62,6,TELL CITY 4,3,Attorney General,9,(D) Jonathan Weinzapfel,238
+"Perry County, Indiana",62,7,TELL CITY 5,3,Attorney General,9,(D) Jonathan Weinzapfel,228
+"Perry County, Indiana",62,8,TELL CITY 6,3,Attorney General,9,(D) Jonathan Weinzapfel,200
+"Perry County, Indiana",62,9,TELL CITY 7,3,Attorney General,9,(D) Jonathan Weinzapfel,207
+"Perry County, Indiana",62,10,TELL CITY 8,3,Attorney General,9,(D) Jonathan Weinzapfel,189
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,3,Attorney General,9,(D) Jonathan Weinzapfel,402
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,3,Attorney General,9,(D) Jonathan Weinzapfel,225
+"Perry County, Indiana",62,13,TROY,3,Attorney General,9,(D) Jonathan Weinzapfel,65
+"Perry County, Indiana",62,14,ANDERSON,3,Attorney General,9,(D) Jonathan Weinzapfel,347
+"Perry County, Indiana",62,15,CLARK 1,3,Attorney General,9,(D) Jonathan Weinzapfel,92
+"Perry County, Indiana",62,16,CLARK 2,3,Attorney General,9,(D) Jonathan Weinzapfel,105
+"Perry County, Indiana",62,17,LEOPOLD ,3,Attorney General,9,(D) Jonathan Weinzapfel,170
+"Perry County, Indiana",62,18,OIL,3,Attorney General,9,(D) Jonathan Weinzapfel,194
+"Perry County, Indiana",62,19,TOBIN,3,Attorney General,9,(D) Jonathan Weinzapfel,132
+"Perry County, Indiana",62,20,DERBY,3,Attorney General,9,(D) Jonathan Weinzapfel,49
+"Perry County, Indiana",62,21,RONO,3,Attorney General,9,(D) Jonathan Weinzapfel,57
+"Perry County, Indiana",62,1,CANNELTON 1,9,United States Rep District 8,23,(R) Larry D. Bucshon,84
+"Perry County, Indiana",62,2,CANNELTON 2,9,United States Rep District 8,23,(R) Larry D. Bucshon,211
+"Perry County, Indiana",62,3,TELL CITY 1,9,United States Rep District 8,23,(R) Larry D. Bucshon,272
+"Perry County, Indiana",62,4,TELL CITY 2,9,United States Rep District 8,23,(R) Larry D. Bucshon,237
+"Perry County, Indiana",62,5,TELL CITY 3,9,United States Rep District 8,23,(R) Larry D. Bucshon,239
+"Perry County, Indiana",62,6,TELL CITY 4,9,United States Rep District 8,23,(R) Larry D. Bucshon,313
+"Perry County, Indiana",62,7,TELL CITY 5,9,United States Rep District 8,23,(R) Larry D. Bucshon,268
+"Perry County, Indiana",62,8,TELL CITY 6,9,United States Rep District 8,23,(R) Larry D. Bucshon,210
+"Perry County, Indiana",62,9,TELL CITY 7,9,United States Rep District 8,23,(R) Larry D. Bucshon,202
+"Perry County, Indiana",62,10,TELL CITY 8,9,United States Rep District 8,23,(R) Larry D. Bucshon,252
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,9,United States Rep District 8,23,(R) Larry D. Bucshon,558
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,9,United States Rep District 8,23,(R) Larry D. Bucshon,337
+"Perry County, Indiana",62,13,TROY,9,United States Rep District 8,23,(R) Larry D. Bucshon,85
+"Perry County, Indiana",62,14,ANDERSON,9,United States Rep District 8,23,(R) Larry D. Bucshon,524
+"Perry County, Indiana",62,15,CLARK 1,9,United States Rep District 8,23,(R) Larry D. Bucshon,201
+"Perry County, Indiana",62,16,CLARK 2,9,United States Rep District 8,23,(R) Larry D. Bucshon,182
+"Perry County, Indiana",62,17,LEOPOLD ,9,United States Rep District 8,23,(R) Larry D. Bucshon,241
+"Perry County, Indiana",62,18,OIL,9,United States Rep District 8,23,(R) Larry D. Bucshon,404
+"Perry County, Indiana",62,19,TOBIN,9,United States Rep District 8,23,(R) Larry D. Bucshon,248
+"Perry County, Indiana",62,20,DERBY,9,United States Rep District 8,23,(R) Larry D. Bucshon,94
+"Perry County, Indiana",62,21,RONO,9,United States Rep District 8,23,(R) Larry D. Bucshon,115
+"Perry County, Indiana",62,1,CANNELTON 1,9,United States Rep District 8,24,(D) E. Thomasina Marsili,72
+"Perry County, Indiana",62,2,CANNELTON 2,9,United States Rep District 8,24,(D) E. Thomasina Marsili,148
+"Perry County, Indiana",62,3,TELL CITY 1,9,United States Rep District 8,24,(D) E. Thomasina Marsili,187
+"Perry County, Indiana",62,4,TELL CITY 2,9,United States Rep District 8,24,(D) E. Thomasina Marsili,166
+"Perry County, Indiana",62,5,TELL CITY 3,9,United States Rep District 8,24,(D) E. Thomasina Marsili,137
+"Perry County, Indiana",62,6,TELL CITY 4,9,United States Rep District 8,24,(D) E. Thomasina Marsili,191
+"Perry County, Indiana",62,7,TELL CITY 5,9,United States Rep District 8,24,(D) E. Thomasina Marsili,188
+"Perry County, Indiana",62,8,TELL CITY 6,9,United States Rep District 8,24,(D) E. Thomasina Marsili,165
+"Perry County, Indiana",62,9,TELL CITY 7,9,United States Rep District 8,24,(D) E. Thomasina Marsili,180
+"Perry County, Indiana",62,10,TELL CITY 8,9,United States Rep District 8,24,(D) E. Thomasina Marsili,154
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,9,United States Rep District 8,24,(D) E. Thomasina Marsili,326
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,9,United States Rep District 8,24,(D) E. Thomasina Marsili,177
+"Perry County, Indiana",62,13,TROY,9,United States Rep District 8,24,(D) E. Thomasina Marsili,58
+"Perry County, Indiana",62,14,ANDERSON,9,United States Rep District 8,24,(D) E. Thomasina Marsili,247
+"Perry County, Indiana",62,15,CLARK 1,9,United States Rep District 8,24,(D) E. Thomasina Marsili,66
+"Perry County, Indiana",62,16,CLARK 2,9,United States Rep District 8,24,(D) E. Thomasina Marsili,80
+"Perry County, Indiana",62,17,LEOPOLD ,9,United States Rep District 8,24,(D) E. Thomasina Marsili,135
+"Perry County, Indiana",62,18,OIL,9,United States Rep District 8,24,(D) E. Thomasina Marsili,158
+"Perry County, Indiana",62,19,TOBIN,9,United States Rep District 8,24,(D) E. Thomasina Marsili,110
+"Perry County, Indiana",62,20,DERBY,9,United States Rep District 8,24,(D) E. Thomasina Marsili,45
+"Perry County, Indiana",62,21,RONO,9,United States Rep District 8,24,(D) E. Thomasina Marsili,44
+"Perry County, Indiana",62,1,CANNELTON 1,9,United States Rep District 8,25,(L) James D. Rodenberger,2
+"Perry County, Indiana",62,2,CANNELTON 2,9,United States Rep District 8,25,(L) James D. Rodenberger,20
+"Perry County, Indiana",62,3,TELL CITY 1,9,United States Rep District 8,25,(L) James D. Rodenberger,18
+"Perry County, Indiana",62,4,TELL CITY 2,9,United States Rep District 8,25,(L) James D. Rodenberger,9
+"Perry County, Indiana",62,5,TELL CITY 3,9,United States Rep District 8,25,(L) James D. Rodenberger,10
+"Perry County, Indiana",62,6,TELL CITY 4,9,United States Rep District 8,25,(L) James D. Rodenberger,14
+"Perry County, Indiana",62,7,TELL CITY 5,9,United States Rep District 8,25,(L) James D. Rodenberger,11
+"Perry County, Indiana",62,8,TELL CITY 6,9,United States Rep District 8,25,(L) James D. Rodenberger,11
+"Perry County, Indiana",62,9,TELL CITY 7,9,United States Rep District 8,25,(L) James D. Rodenberger,13
+"Perry County, Indiana",62,10,TELL CITY 8,9,United States Rep District 8,25,(L) James D. Rodenberger,9
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,9,United States Rep District 8,25,(L) James D. Rodenberger,23
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,9,United States Rep District 8,25,(L) James D. Rodenberger,16
+"Perry County, Indiana",62,13,TROY,9,United States Rep District 8,25,(L) James D. Rodenberger,5
+"Perry County, Indiana",62,14,ANDERSON,9,United States Rep District 8,25,(L) James D. Rodenberger,31
+"Perry County, Indiana",62,15,CLARK 1,9,United States Rep District 8,25,(L) James D. Rodenberger,8
+"Perry County, Indiana",62,16,CLARK 2,9,United States Rep District 8,25,(L) James D. Rodenberger,3
+"Perry County, Indiana",62,17,LEOPOLD ,9,United States Rep District 8,25,(L) James D. Rodenberger,9
+"Perry County, Indiana",62,18,OIL,9,United States Rep District 8,25,(L) James D. Rodenberger,18
+"Perry County, Indiana",62,19,TOBIN,9,United States Rep District 8,25,(L) James D. Rodenberger,11
+"Perry County, Indiana",62,20,DERBY,9,United States Rep District 8,25,(L) James D. Rodenberger,1
+"Perry County, Indiana",62,21,RONO,9,United States Rep District 8,25,(L) James D. Rodenberger,6
+"Perry County, Indiana",62,1,CANNELTON 1,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,2,CANNELTON 2,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,3,TELL CITY 1,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,4,TELL CITY 2,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,5,TELL CITY 3,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,6,TELL CITY 4,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,7,TELL CITY 5,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,8,TELL CITY 6,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,9,TELL CITY 7,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,10,TELL CITY 8,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,13,TROY,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,14,ANDERSON,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,15,CLARK 1,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,16,CLARK 2,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,17,LEOPOLD ,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,18,OIL,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,19,TOBIN,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,20,DERBY,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,21,RONO,9,United States Rep District 8,20,Write-In,0
+"Perry County, Indiana",62,1,CANNELTON 1,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,102
+"Perry County, Indiana",62,2,CANNELTON 2,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,271
+"Perry County, Indiana",62,3,TELL CITY 1,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,344
+"Perry County, Indiana",62,4,TELL CITY 2,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,291
+"Perry County, Indiana",62,5,TELL CITY 3,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,303
+"Perry County, Indiana",62,6,TELL CITY 4,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,385
+"Perry County, Indiana",62,7,TELL CITY 5,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,331
+"Perry County, Indiana",62,8,TELL CITY 6,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,268
+"Perry County, Indiana",62,9,TELL CITY 7,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,254
+"Perry County, Indiana",62,10,TELL CITY 8,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,307
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,677
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,405
+"Perry County, Indiana",62,13,TROY,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,101
+"Perry County, Indiana",62,14,ANDERSON,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,633
+"Perry County, Indiana",62,15,CLARK 1,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,229
+"Perry County, Indiana",62,16,CLARK 2,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,218
+"Perry County, Indiana",62,17,LEOPOLD ,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,278
+"Perry County, Indiana",62,18,OIL,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,471
+"Perry County, Indiana",62,19,TOBIN,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,297
+"Perry County, Indiana",62,20,DERBY,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,108
+"Perry County, Indiana",62,21,RONO,10,State Representative Dist 74 ,26,(R) Stephen R. Bartels,136
+"Perry County, Indiana",62,1,CANNELTON 1,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,2,CANNELTON 2,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,3,TELL CITY 1,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,4,TELL CITY 2,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,5,TELL CITY 3,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,6,TELL CITY 4,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,7,TELL CITY 5,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,8,TELL CITY 6,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,9,TELL CITY 7,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,10,TELL CITY 8,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,13,TROY,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,14,ANDERSON,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,15,CLARK 1,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,16,CLARK 2,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,17,LEOPOLD ,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,18,OIL,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,19,TOBIN,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,20,DERBY,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,21,RONO,10,State Representative Dist 74 ,27,(D) No Candidate Filed,0
+"Perry County, Indiana",62,1,CANNELTON 1,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,2,CANNELTON 2,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,3,TELL CITY 1,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,4,TELL CITY 2,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,5,TELL CITY 3,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,6,TELL CITY 4,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,7,TELL CITY 5,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,8,TELL CITY 6,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,9,TELL CITY 7,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,10,TELL CITY 8,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,13,TROY,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,14,ANDERSON,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,15,CLARK 1,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,16,CLARK 2,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,17,LEOPOLD ,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,18,OIL,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,19,TOBIN,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,20,DERBY,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,21,RONO,11,County Recorder  ,28,(R) No Candidate Filed,0
+"Perry County, Indiana",62,1,CANNELTON 1,11,County Recorder  ,29,(D) Jane A James,104
+"Perry County, Indiana",62,2,CANNELTON 2,11,County Recorder  ,29,(D) Jane A James,246
+"Perry County, Indiana",62,3,TELL CITY 1,11,County Recorder  ,29,(D) Jane A James,300
+"Perry County, Indiana",62,4,TELL CITY 2,11,County Recorder  ,29,(D) Jane A James,265
+"Perry County, Indiana",62,5,TELL CITY 3,11,County Recorder  ,29,(D) Jane A James,237
+"Perry County, Indiana",62,6,TELL CITY 4,11,County Recorder  ,29,(D) Jane A James,337
+"Perry County, Indiana",62,7,TELL CITY 5,11,County Recorder  ,29,(D) Jane A James,312
+"Perry County, Indiana",62,8,TELL CITY 6,11,County Recorder  ,29,(D) Jane A James,260
+"Perry County, Indiana",62,9,TELL CITY 7,11,County Recorder  ,29,(D) Jane A James,265
+"Perry County, Indiana",62,10,TELL CITY 8,11,County Recorder  ,29,(D) Jane A James,255
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,11,County Recorder  ,29,(D) Jane A James,607
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,11,County Recorder  ,29,(D) Jane A James,314
+"Perry County, Indiana",62,13,TROY,11,County Recorder  ,29,(D) Jane A James,87
+"Perry County, Indiana",62,14,ANDERSON,11,County Recorder  ,29,(D) Jane A James,520
+"Perry County, Indiana",62,15,CLARK 1,11,County Recorder  ,29,(D) Jane A James,146
+"Perry County, Indiana",62,16,CLARK 2,11,County Recorder  ,29,(D) Jane A James,152
+"Perry County, Indiana",62,17,LEOPOLD ,11,County Recorder  ,29,(D) Jane A James,258
+"Perry County, Indiana",62,18,OIL,11,County Recorder  ,29,(D) Jane A James,338
+"Perry County, Indiana",62,19,TOBIN,11,County Recorder  ,29,(D) Jane A James,214
+"Perry County, Indiana",62,20,DERBY,11,County Recorder  ,29,(D) Jane A James,90
+"Perry County, Indiana",62,21,RONO,11,County Recorder  ,29,(D) Jane A James,95
+"Perry County, Indiana",62,1,CANNELTON 1,12,County Surveyor  ,30,(R) David Lynch,108
+"Perry County, Indiana",62,2,CANNELTON 2,12,County Surveyor  ,30,(R) David Lynch,271
+"Perry County, Indiana",62,3,TELL CITY 1,12,County Surveyor  ,30,(R) David Lynch,358
+"Perry County, Indiana",62,4,TELL CITY 2,12,County Surveyor  ,30,(R) David Lynch,300
+"Perry County, Indiana",62,5,TELL CITY 3,12,County Surveyor  ,30,(R) David Lynch,304
+"Perry County, Indiana",62,6,TELL CITY 4,12,County Surveyor  ,30,(R) David Lynch,395
+"Perry County, Indiana",62,7,TELL CITY 5,12,County Surveyor  ,30,(R) David Lynch,329
+"Perry County, Indiana",62,8,TELL CITY 6,12,County Surveyor  ,30,(R) David Lynch,273
+"Perry County, Indiana",62,9,TELL CITY 7,12,County Surveyor  ,30,(R) David Lynch,265
+"Perry County, Indiana",62,10,TELL CITY 8,12,County Surveyor  ,30,(R) David Lynch,311
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,12,County Surveyor  ,30,(R) David Lynch,696
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,12,County Surveyor  ,30,(R) David Lynch,414
+"Perry County, Indiana",62,13,TROY,12,County Surveyor  ,30,(R) David Lynch,100
+"Perry County, Indiana",62,14,ANDERSON,12,County Surveyor  ,30,(R) David Lynch,665
+"Perry County, Indiana",62,15,CLARK 1,12,County Surveyor  ,30,(R) David Lynch,239
+"Perry County, Indiana",62,16,CLARK 2,12,County Surveyor  ,30,(R) David Lynch,225
+"Perry County, Indiana",62,17,LEOPOLD ,12,County Surveyor  ,30,(R) David Lynch,294
+"Perry County, Indiana",62,18,OIL,12,County Surveyor  ,30,(R) David Lynch,500
+"Perry County, Indiana",62,19,TOBIN,12,County Surveyor  ,30,(R) David Lynch,306
+"Perry County, Indiana",62,20,DERBY,12,County Surveyor  ,30,(R) David Lynch,115
+"Perry County, Indiana",62,21,RONO,12,County Surveyor  ,30,(R) David Lynch,138
+"Perry County, Indiana",62,1,CANNELTON 1,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,2,CANNELTON 2,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,3,TELL CITY 1,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,4,TELL CITY 2,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,5,TELL CITY 3,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,6,TELL CITY 4,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,7,TELL CITY 5,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,8,TELL CITY 6,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,9,TELL CITY 7,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,10,TELL CITY 8,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,13,TROY,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,14,ANDERSON,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,15,CLARK 1,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,16,CLARK 2,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,17,LEOPOLD ,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,18,OIL,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,19,TOBIN,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,20,DERBY,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,21,RONO,12,County Surveyor  ,31,(D) No Candidate Filed,0
+"Perry County, Indiana",62,1,CANNELTON 1,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,90
+"Perry County, Indiana",62,2,CANNELTON 2,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,235
+"Perry County, Indiana",62,3,TELL CITY 1,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,290
+"Perry County, Indiana",62,4,TELL CITY 2,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,250
+"Perry County, Indiana",62,5,TELL CITY 3,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,251
+"Perry County, Indiana",62,6,TELL CITY 4,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,344
+"Perry County, Indiana",62,7,TELL CITY 5,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,288
+"Perry County, Indiana",62,8,TELL CITY 6,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,229
+"Perry County, Indiana",62,9,TELL CITY 7,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,217
+"Perry County, Indiana",62,10,TELL CITY 8,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,261
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,609
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,350
+"Perry County, Indiana",62,13,TROY,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,88
+"Perry County, Indiana",62,14,ANDERSON,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,547
+"Perry County, Indiana",62,15,CLARK 1,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,209
+"Perry County, Indiana",62,16,CLARK 2,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,183
+"Perry County, Indiana",62,17,LEOPOLD ,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,258
+"Perry County, Indiana",62,18,OIL,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,404
+"Perry County, Indiana",62,19,TOBIN,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,265
+"Perry County, Indiana",62,20,DERBY,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,102
+"Perry County, Indiana",62,21,RONO,13,County Commissioner District 1 ,32,(R) Gregg Jarboe,125
+"Perry County, Indiana",62,1,CANNELTON 1,13,County Commissioner District 1 ,33,(D) Danny Bolin,73
+"Perry County, Indiana",62,2,CANNELTON 2,13,County Commissioner District 1 ,33,(D) Danny Bolin,162
+"Perry County, Indiana",62,3,TELL CITY 1,13,County Commissioner District 1 ,33,(D) Danny Bolin,193
+"Perry County, Indiana",62,4,TELL CITY 2,13,County Commissioner District 1 ,33,(D) Danny Bolin,158
+"Perry County, Indiana",62,5,TELL CITY 3,13,County Commissioner District 1 ,33,(D) Danny Bolin,137
+"Perry County, Indiana",62,6,TELL CITY 4,13,County Commissioner District 1 ,33,(D) Danny Bolin,183
+"Perry County, Indiana",62,7,TELL CITY 5,13,County Commissioner District 1 ,33,(D) Danny Bolin,188
+"Perry County, Indiana",62,8,TELL CITY 6,13,County Commissioner District 1 ,33,(D) Danny Bolin,153
+"Perry County, Indiana",62,9,TELL CITY 7,13,County Commissioner District 1 ,33,(D) Danny Bolin,182
+"Perry County, Indiana",62,10,TELL CITY 8,13,County Commissioner District 1 ,33,(D) Danny Bolin,162
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,13,County Commissioner District 1 ,33,(D) Danny Bolin,303
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,13,County Commissioner District 1 ,33,(D) Danny Bolin,187
+"Perry County, Indiana",62,13,TROY,13,County Commissioner District 1 ,33,(D) Danny Bolin,59
+"Perry County, Indiana",62,14,ANDERSON,13,County Commissioner District 1 ,33,(D) Danny Bolin,252
+"Perry County, Indiana",62,15,CLARK 1,13,County Commissioner District 1 ,33,(D) Danny Bolin,62
+"Perry County, Indiana",62,16,CLARK 2,13,County Commissioner District 1 ,33,(D) Danny Bolin,81
+"Perry County, Indiana",62,17,LEOPOLD ,13,County Commissioner District 1 ,33,(D) Danny Bolin,136
+"Perry County, Indiana",62,18,OIL,13,County Commissioner District 1 ,33,(D) Danny Bolin,180
+"Perry County, Indiana",62,19,TOBIN,13,County Commissioner District 1 ,33,(D) Danny Bolin,104
+"Perry County, Indiana",62,20,DERBY,13,County Commissioner District 1 ,33,(D) Danny Bolin,43
+"Perry County, Indiana",62,21,RONO,13,County Commissioner District 1 ,33,(D) Danny Bolin,42
+"Perry County, Indiana",62,1,CANNELTON 1,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,2,CANNELTON 2,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,3,TELL CITY 1,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,4,TELL CITY 2,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,5,TELL CITY 3,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,6,TELL CITY 4,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,7,TELL CITY 5,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,8,TELL CITY 6,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,9,TELL CITY 7,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,10,TELL CITY 8,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,13,TROY,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,14,ANDERSON,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,15,CLARK 1,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,16,CLARK 2,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,17,LEOPOLD ,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,18,OIL,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,19,TOBIN,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,20,DERBY,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,21,RONO,14,County Commissioner District 3 ,34,(R) No Candidate Filed,0
+"Perry County, Indiana",62,1,CANNELTON 1,14,County Commissioner District 3 ,35,(D) Randy Kleaving,110
+"Perry County, Indiana",62,2,CANNELTON 2,14,County Commissioner District 3 ,35,(D) Randy Kleaving,263
+"Perry County, Indiana",62,3,TELL CITY 1,14,County Commissioner District 3 ,35,(D) Randy Kleaving,316
+"Perry County, Indiana",62,4,TELL CITY 2,14,County Commissioner District 3 ,35,(D) Randy Kleaving,280
+"Perry County, Indiana",62,5,TELL CITY 3,14,County Commissioner District 3 ,35,(D) Randy Kleaving,265
+"Perry County, Indiana",62,6,TELL CITY 4,14,County Commissioner District 3 ,35,(D) Randy Kleaving,356
+"Perry County, Indiana",62,7,TELL CITY 5,14,County Commissioner District 3 ,35,(D) Randy Kleaving,327
+"Perry County, Indiana",62,8,TELL CITY 6,14,County Commissioner District 3 ,35,(D) Randy Kleaving,283
+"Perry County, Indiana",62,9,TELL CITY 7,14,County Commissioner District 3 ,35,(D) Randy Kleaving,272
+"Perry County, Indiana",62,10,TELL CITY 8,14,County Commissioner District 3 ,35,(D) Randy Kleaving,270
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,14,County Commissioner District 3 ,35,(D) Randy Kleaving,639
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,14,County Commissioner District 3 ,35,(D) Randy Kleaving,351
+"Perry County, Indiana",62,13,TROY,14,County Commissioner District 3 ,35,(D) Randy Kleaving,96
+"Perry County, Indiana",62,14,ANDERSON,14,County Commissioner District 3 ,35,(D) Randy Kleaving,562
+"Perry County, Indiana",62,15,CLARK 1,14,County Commissioner District 3 ,35,(D) Randy Kleaving,161
+"Perry County, Indiana",62,16,CLARK 2,14,County Commissioner District 3 ,35,(D) Randy Kleaving,175
+"Perry County, Indiana",62,17,LEOPOLD ,14,County Commissioner District 3 ,35,(D) Randy Kleaving,255
+"Perry County, Indiana",62,18,OIL,14,County Commissioner District 3 ,35,(D) Randy Kleaving,346
+"Perry County, Indiana",62,19,TOBIN,14,County Commissioner District 3 ,35,(D) Randy Kleaving,235
+"Perry County, Indiana",62,20,DERBY,14,County Commissioner District 3 ,35,(D) Randy Kleaving,95
+"Perry County, Indiana",62,21,RONO,14,County Commissioner District 3 ,35,(D) Randy Kleaving,101
+"Perry County, Indiana",62,1,CANNELTON 1,15,County Council At-Large ,36,(Rep) David A Etienne,71
+"Perry County, Indiana",62,2,CANNELTON 2,15,County Council At-Large ,36,(Rep) David A Etienne,176
+"Perry County, Indiana",62,3,TELL CITY 1,15,County Council At-Large ,36,(Rep) David A Etienne,264
+"Perry County, Indiana",62,4,TELL CITY 2,15,County Council At-Large ,36,(Rep) David A Etienne,199
+"Perry County, Indiana",62,5,TELL CITY 3,15,County Council At-Large ,36,(Rep) David A Etienne,207
+"Perry County, Indiana",62,6,TELL CITY 4,15,County Council At-Large ,36,(Rep) David A Etienne,295
+"Perry County, Indiana",62,7,TELL CITY 5,15,County Council At-Large ,36,(Rep) David A Etienne,257
+"Perry County, Indiana",62,8,TELL CITY 6,15,County Council At-Large ,36,(Rep) David A Etienne,190
+"Perry County, Indiana",62,9,TELL CITY 7,15,County Council At-Large ,36,(Rep) David A Etienne,189
+"Perry County, Indiana",62,10,TELL CITY 8,15,County Council At-Large ,36,(Rep) David A Etienne,196
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,15,County Council At-Large ,36,(Rep) David A Etienne,534
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,15,County Council At-Large ,36,(Rep) David A Etienne,299
+"Perry County, Indiana",62,13,TROY,15,County Council At-Large ,36,(Rep) David A Etienne,84
+"Perry County, Indiana",62,14,ANDERSON,15,County Council At-Large ,36,(Rep) David A Etienne,503
+"Perry County, Indiana",62,15,CLARK 1,15,County Council At-Large ,36,(Rep) David A Etienne,158
+"Perry County, Indiana",62,16,CLARK 2,15,County Council At-Large ,36,(Rep) David A Etienne,159
+"Perry County, Indiana",62,17,LEOPOLD ,15,County Council At-Large ,36,(Rep) David A Etienne,238
+"Perry County, Indiana",62,18,OIL,15,County Council At-Large ,36,(Rep) David A Etienne,355
+"Perry County, Indiana",62,19,TOBIN,15,County Council At-Large ,36,(Rep) David A Etienne,230
+"Perry County, Indiana",62,20,DERBY,15,County Council At-Large ,36,(Rep) David A Etienne,82
+"Perry County, Indiana",62,21,RONO,15,County Council At-Large ,36,(Rep) David A Etienne,115
+"Perry County, Indiana",62,1,CANNELTON 1,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,95
+"Perry County, Indiana",62,2,CANNELTON 2,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,238
+"Perry County, Indiana",62,3,TELL CITY 1,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,240
+"Perry County, Indiana",62,4,TELL CITY 2,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,214
+"Perry County, Indiana",62,5,TELL CITY 3,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,214
+"Perry County, Indiana",62,6,TELL CITY 4,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,275
+"Perry County, Indiana",62,7,TELL CITY 5,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,229
+"Perry County, Indiana",62,8,TELL CITY 6,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,180
+"Perry County, Indiana",62,9,TELL CITY 7,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,176
+"Perry County, Indiana",62,10,TELL CITY 8,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,219
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,538
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,312
+"Perry County, Indiana",62,13,TROY,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,76
+"Perry County, Indiana",62,14,ANDERSON,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,454
+"Perry County, Indiana",62,15,CLARK 1,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,115
+"Perry County, Indiana",62,16,CLARK 2,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,118
+"Perry County, Indiana",62,17,LEOPOLD ,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,185
+"Perry County, Indiana",62,18,OIL,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,287
+"Perry County, Indiana",62,19,TOBIN,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,221
+"Perry County, Indiana",62,20,DERBY,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,79
+"Perry County, Indiana",62,21,RONO,15,County Council At-Large ,37,(Rep) Lynn Fulkerson,79
+"Perry County, Indiana",62,1,CANNELTON 1,15,County Council At-Large ,38,(Dem) Chris Axton,72
+"Perry County, Indiana",62,2,CANNELTON 2,15,County Council At-Large ,38,(Dem) Chris Axton,140
+"Perry County, Indiana",62,3,TELL CITY 1,15,County Council At-Large ,38,(Dem) Chris Axton,186
+"Perry County, Indiana",62,4,TELL CITY 2,15,County Council At-Large ,38,(Dem) Chris Axton,169
+"Perry County, Indiana",62,5,TELL CITY 3,15,County Council At-Large ,38,(Dem) Chris Axton,139
+"Perry County, Indiana",62,6,TELL CITY 4,15,County Council At-Large ,38,(Dem) Chris Axton,241
+"Perry County, Indiana",62,7,TELL CITY 5,15,County Council At-Large ,38,(Dem) Chris Axton,188
+"Perry County, Indiana",62,8,TELL CITY 6,15,County Council At-Large ,38,(Dem) Chris Axton,157
+"Perry County, Indiana",62,9,TELL CITY 7,15,County Council At-Large ,38,(Dem) Chris Axton,156
+"Perry County, Indiana",62,10,TELL CITY 8,15,County Council At-Large ,38,(Dem) Chris Axton,187
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,15,County Council At-Large ,38,(Dem) Chris Axton,353
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,15,County Council At-Large ,38,(Dem) Chris Axton,196
+"Perry County, Indiana",62,13,TROY,15,County Council At-Large ,38,(Dem) Chris Axton,59
+"Perry County, Indiana",62,14,ANDERSON,15,County Council At-Large ,38,(Dem) Chris Axton,242
+"Perry County, Indiana",62,15,CLARK 1,15,County Council At-Large ,38,(Dem) Chris Axton,47
+"Perry County, Indiana",62,16,CLARK 2,15,County Council At-Large ,38,(Dem) Chris Axton,59
+"Perry County, Indiana",62,17,LEOPOLD ,15,County Council At-Large ,38,(Dem) Chris Axton,107
+"Perry County, Indiana",62,18,OIL,15,County Council At-Large ,38,(Dem) Chris Axton,142
+"Perry County, Indiana",62,19,TOBIN,15,County Council At-Large ,38,(Dem) Chris Axton,110
+"Perry County, Indiana",62,20,DERBY,15,County Council At-Large ,38,(Dem) Chris Axton,44
+"Perry County, Indiana",62,21,RONO,15,County Council At-Large ,38,(Dem) Chris Axton,36
+"Perry County, Indiana",62,1,CANNELTON 1,15,County Council At-Large ,39,(Dem) Paul J Malone,84
+"Perry County, Indiana",62,2,CANNELTON 2,15,County Council At-Large ,39,(Dem) Paul J Malone,141
+"Perry County, Indiana",62,3,TELL CITY 1,15,County Council At-Large ,39,(Dem) Paul J Malone,231
+"Perry County, Indiana",62,4,TELL CITY 2,15,County Council At-Large ,39,(Dem) Paul J Malone,181
+"Perry County, Indiana",62,5,TELL CITY 3,15,County Council At-Large ,39,(Dem) Paul J Malone,169
+"Perry County, Indiana",62,6,TELL CITY 4,15,County Council At-Large ,39,(Dem) Paul J Malone,271
+"Perry County, Indiana",62,7,TELL CITY 5,15,County Council At-Large ,39,(Dem) Paul J Malone,215
+"Perry County, Indiana",62,8,TELL CITY 6,15,County Council At-Large ,39,(Dem) Paul J Malone,189
+"Perry County, Indiana",62,9,TELL CITY 7,15,County Council At-Large ,39,(Dem) Paul J Malone,206
+"Perry County, Indiana",62,10,TELL CITY 8,15,County Council At-Large ,39,(Dem) Paul J Malone,184
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,15,County Council At-Large ,39,(Dem) Paul J Malone,488
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,15,County Council At-Large ,39,(Dem) Paul J Malone,221
+"Perry County, Indiana",62,13,TROY,15,County Council At-Large ,39,(Dem) Paul J Malone,67
+"Perry County, Indiana",62,14,ANDERSON,15,County Council At-Large ,39,(Dem) Paul J Malone,399
+"Perry County, Indiana",62,15,CLARK 1,15,County Council At-Large ,39,(Dem) Paul J Malone,110
+"Perry County, Indiana",62,16,CLARK 2,15,County Council At-Large ,39,(Dem) Paul J Malone,119
+"Perry County, Indiana",62,17,LEOPOLD ,15,County Council At-Large ,39,(Dem) Paul J Malone,213
+"Perry County, Indiana",62,18,OIL,15,County Council At-Large ,39,(Dem) Paul J Malone,233
+"Perry County, Indiana",62,19,TOBIN,15,County Council At-Large ,39,(Dem) Paul J Malone,163
+"Perry County, Indiana",62,20,DERBY,15,County Council At-Large ,39,(Dem) Paul J Malone,68
+"Perry County, Indiana",62,21,RONO,15,County Council At-Large ,39,(Dem) Paul J Malone,74
+"Perry County, Indiana",62,3,TELL CITY 1,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,325
+"Perry County, Indiana",62,4,TELL CITY 2,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,246
+"Perry County, Indiana",62,5,TELL CITY 3,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,259
+"Perry County, Indiana",62,6,TELL CITY 4,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,353
+"Perry County, Indiana",62,7,TELL CITY 5,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,286
+"Perry County, Indiana",62,8,TELL CITY 6,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,237
+"Perry County, Indiana",62,9,TELL CITY 7,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,240
+"Perry County, Indiana",62,10,TELL CITY 8,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,253
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,613
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,354
+"Perry County, Indiana",62,13,TROY,16,Tell City - Troy Township SB,40,(NP) Tony W Thomas,100
+"Perry County, Indiana",62,3,TELL CITY 1,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,249
+"Perry County, Indiana",62,4,TELL CITY 2,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,194
+"Perry County, Indiana",62,5,TELL CITY 3,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,207
+"Perry County, Indiana",62,6,TELL CITY 4,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,269
+"Perry County, Indiana",62,7,TELL CITY 5,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,236
+"Perry County, Indiana",62,8,TELL CITY 6,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,203
+"Perry County, Indiana",62,9,TELL CITY 7,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,195
+"Perry County, Indiana",62,10,TELL CITY 8,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,207
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,454
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,265
+"Perry County, Indiana",62,13,TROY,16,Tell City - Troy Township SB,41,(NP) Jimi R. Whalen,75
+"Perry County, Indiana",62,14,ANDERSON,17,Perry Central SB District 2 ,42,(NP) Timothy Robert Edwards,550
+"Perry County, Indiana",62,15,CLARK 1,17,Perry Central SB District 2 ,42,(NP) Timothy Robert Edwards,147
+"Perry County, Indiana",62,16,CLARK 2,17,Perry Central SB District 2 ,42,(NP) Timothy Robert Edwards,161
+"Perry County, Indiana",62,17,LEOPOLD ,17,Perry Central SB District 2 ,42,(NP) Timothy Robert Edwards,281
+"Perry County, Indiana",62,18,OIL,17,Perry Central SB District 2 ,42,(NP) Timothy Robert Edwards,384
+"Perry County, Indiana",62,19,TOBIN,17,Perry Central SB District 2 ,42,(NP) Timothy Robert Edwards,222
+"Perry County, Indiana",62,20,DERBY,17,Perry Central SB District 2 ,42,(NP) Timothy Robert Edwards,92
+"Perry County, Indiana",62,21,RONO,17,Perry Central SB District 2 ,42,(NP) Timothy Robert Edwards,104
+"Perry County, Indiana",62,14,ANDERSON,18,Perry Central SB District 3,43,(NP) Kevin Etienne,576
+"Perry County, Indiana",62,15,CLARK 1,18,Perry Central SB District 3,43,(NP) Kevin Etienne,175
+"Perry County, Indiana",62,16,CLARK 2,18,Perry Central SB District 3,43,(NP) Kevin Etienne,174
+"Perry County, Indiana",62,17,LEOPOLD ,18,Perry Central SB District 3,43,(NP) Kevin Etienne,274
+"Perry County, Indiana",62,18,OIL,18,Perry Central SB District 3,43,(NP) Kevin Etienne,396
+"Perry County, Indiana",62,19,TOBIN,18,Perry Central SB District 3,43,(NP) Kevin Etienne,255
+"Perry County, Indiana",62,20,DERBY,18,Perry Central SB District 3,43,(NP) Kevin Etienne,103
+"Perry County, Indiana",62,21,RONO,18,Perry Central SB District 3,43,(NP) Kevin Etienne,120
+"Perry County, Indiana",62,1,CANNELTON 1,19,Cannelton School Board  ,44,(NP) Vincent Gagliardi,55
+"Perry County, Indiana",62,2,CANNELTON 2,19,Cannelton School Board  ,44,(NP) Vincent Gagliardi,115
+"Perry County, Indiana",62,1,CANNELTON 1,19,Cannelton School Board  ,45,(NP) Roxanna J Huff,46
+"Perry County, Indiana",62,2,CANNELTON 2,19,Cannelton School Board  ,45,(NP) Roxanna J Huff,146
+"Perry County, Indiana",62,1,CANNELTON 1,19,Cannelton School Board  ,46,(NP) Jeremie H. Joyal,56
+"Perry County, Indiana",62,2,CANNELTON 2,19,Cannelton School Board  ,46,(NP) Jeremie H. Joyal,86
+"Perry County, Indiana",62,1,CANNELTON 1,19,Cannelton School Board  ,47,(NP) Bruce A. Myers,63
+"Perry County, Indiana",62,2,CANNELTON 2,19,Cannelton School Board  ,47,(NP) Bruce A. Myers,196
+"Perry County, Indiana",62,1,CANNELTON 1,19,Cannelton School Board  ,48,(NP) Kenneth W Snyder,41
+"Perry County, Indiana",62,2,CANNELTON 2,19,Cannelton School Board  ,48,(NP) Kenneth W Snyder,83
+"Perry County, Indiana",62,1,CANNELTON 1,4,IN Supreme Court-Goff,10,Yes,87
+"Perry County, Indiana",62,2,CANNELTON 2,4,IN Supreme Court-Goff,10,Yes,193
+"Perry County, Indiana",62,3,TELL CITY 1,4,IN Supreme Court-Goff,10,Yes,259
+"Perry County, Indiana",62,4,TELL CITY 2,4,IN Supreme Court-Goff,10,Yes,227
+"Perry County, Indiana",62,5,TELL CITY 3,4,IN Supreme Court-Goff,10,Yes,213
+"Perry County, Indiana",62,6,TELL CITY 4,4,IN Supreme Court-Goff,10,Yes,291
+"Perry County, Indiana",62,7,TELL CITY 5,4,IN Supreme Court-Goff,10,Yes,246
+"Perry County, Indiana",62,8,TELL CITY 6,4,IN Supreme Court-Goff,10,Yes,222
+"Perry County, Indiana",62,9,TELL CITY 7,4,IN Supreme Court-Goff,10,Yes,205
+"Perry County, Indiana",62,10,TELL CITY 8,4,IN Supreme Court-Goff,10,Yes,217
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,4,IN Supreme Court-Goff,10,Yes,506
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,4,IN Supreme Court-Goff,10,Yes,286
+"Perry County, Indiana",62,13,TROY,4,IN Supreme Court-Goff,10,Yes,81
+"Perry County, Indiana",62,14,ANDERSON,4,IN Supreme Court-Goff,10,Yes,446
+"Perry County, Indiana",62,15,CLARK 1,4,IN Supreme Court-Goff,10,Yes,143
+"Perry County, Indiana",62,16,CLARK 2,4,IN Supreme Court-Goff,10,Yes,157
+"Perry County, Indiana",62,17,LEOPOLD ,4,IN Supreme Court-Goff,10,Yes,189
+"Perry County, Indiana",62,18,OIL,4,IN Supreme Court-Goff,10,Yes,299
+"Perry County, Indiana",62,19,TOBIN,4,IN Supreme Court-Goff,10,Yes,188
+"Perry County, Indiana",62,20,DERBY,4,IN Supreme Court-Goff,10,Yes,75
+"Perry County, Indiana",62,21,RONO,4,IN Supreme Court-Goff,10,Yes,88
+"Perry County, Indiana",62,1,CANNELTON 1,4,IN Supreme Court-Goff,11,No,38
+"Perry County, Indiana",62,2,CANNELTON 2,4,IN Supreme Court-Goff,11,No,89
+"Perry County, Indiana",62,3,TELL CITY 1,4,IN Supreme Court-Goff,11,No,106
+"Perry County, Indiana",62,4,TELL CITY 2,4,IN Supreme Court-Goff,11,No,77
+"Perry County, Indiana",62,5,TELL CITY 3,4,IN Supreme Court-Goff,11,No,77
+"Perry County, Indiana",62,6,TELL CITY 4,4,IN Supreme Court-Goff,11,No,112
+"Perry County, Indiana",62,7,TELL CITY 5,4,IN Supreme Court-Goff,11,No,94
+"Perry County, Indiana",62,8,TELL CITY 6,4,IN Supreme Court-Goff,11,No,78
+"Perry County, Indiana",62,9,TELL CITY 7,4,IN Supreme Court-Goff,11,No,74
+"Perry County, Indiana",62,10,TELL CITY 8,4,IN Supreme Court-Goff,11,No,84
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,4,IN Supreme Court-Goff,11,No,193
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,4,IN Supreme Court-Goff,11,No,109
+"Perry County, Indiana",62,13,TROY,4,IN Supreme Court-Goff,11,No,34
+"Perry County, Indiana",62,14,ANDERSON,4,IN Supreme Court-Goff,11,No,150
+"Perry County, Indiana",62,15,CLARK 1,4,IN Supreme Court-Goff,11,No,50
+"Perry County, Indiana",62,16,CLARK 2,4,IN Supreme Court-Goff,11,No,38
+"Perry County, Indiana",62,17,LEOPOLD ,4,IN Supreme Court-Goff,11,No,88
+"Perry County, Indiana",62,18,OIL,4,IN Supreme Court-Goff,11,No,111
+"Perry County, Indiana",62,19,TOBIN,4,IN Supreme Court-Goff,11,No,86
+"Perry County, Indiana",62,20,DERBY,4,IN Supreme Court-Goff,11,No,28
+"Perry County, Indiana",62,21,RONO,4,IN Supreme Court-Goff,11,No,21
+"Perry County, Indiana",62,1,CANNELTON 1,5,Court of Appeals Dist 1-Bailey,12,Yes,83
+"Perry County, Indiana",62,2,CANNELTON 2,5,Court of Appeals Dist 1-Bailey,12,Yes,197
+"Perry County, Indiana",62,3,TELL CITY 1,5,Court of Appeals Dist 1-Bailey,12,Yes,265
+"Perry County, Indiana",62,4,TELL CITY 2,5,Court of Appeals Dist 1-Bailey,12,Yes,233
+"Perry County, Indiana",62,5,TELL CITY 3,5,Court of Appeals Dist 1-Bailey,12,Yes,216
+"Perry County, Indiana",62,6,TELL CITY 4,5,Court of Appeals Dist 1-Bailey,12,Yes,298
+"Perry County, Indiana",62,7,TELL CITY 5,5,Court of Appeals Dist 1-Bailey,12,Yes,254
+"Perry County, Indiana",62,8,TELL CITY 6,5,Court of Appeals Dist 1-Bailey,12,Yes,220
+"Perry County, Indiana",62,9,TELL CITY 7,5,Court of Appeals Dist 1-Bailey,12,Yes,201
+"Perry County, Indiana",62,10,TELL CITY 8,5,Court of Appeals Dist 1-Bailey,12,Yes,216
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,5,Court of Appeals Dist 1-Bailey,12,Yes,511
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,5,Court of Appeals Dist 1-Bailey,12,Yes,290
+"Perry County, Indiana",62,13,TROY,5,Court of Appeals Dist 1-Bailey,12,Yes,79
+"Perry County, Indiana",62,14,ANDERSON,5,Court of Appeals Dist 1-Bailey,12,Yes,454
+"Perry County, Indiana",62,15,CLARK 1,5,Court of Appeals Dist 1-Bailey,12,Yes,151
+"Perry County, Indiana",62,16,CLARK 2,5,Court of Appeals Dist 1-Bailey,12,Yes,151
+"Perry County, Indiana",62,17,LEOPOLD ,5,Court of Appeals Dist 1-Bailey,12,Yes,196
+"Perry County, Indiana",62,18,OIL,5,Court of Appeals Dist 1-Bailey,12,Yes,286
+"Perry County, Indiana",62,19,TOBIN,5,Court of Appeals Dist 1-Bailey,12,Yes,183
+"Perry County, Indiana",62,20,DERBY,5,Court of Appeals Dist 1-Bailey,12,Yes,70
+"Perry County, Indiana",62,21,RONO,5,Court of Appeals Dist 1-Bailey,12,Yes,89
+"Perry County, Indiana",62,1,CANNELTON 1,5,Court of Appeals Dist 1-Bailey,13,No,40
+"Perry County, Indiana",62,2,CANNELTON 2,5,Court of Appeals Dist 1-Bailey,13,No,79
+"Perry County, Indiana",62,3,TELL CITY 1,5,Court of Appeals Dist 1-Bailey,13,No,98
+"Perry County, Indiana",62,4,TELL CITY 2,5,Court of Appeals Dist 1-Bailey,13,No,72
+"Perry County, Indiana",62,5,TELL CITY 3,5,Court of Appeals Dist 1-Bailey,13,No,72
+"Perry County, Indiana",62,6,TELL CITY 4,5,Court of Appeals Dist 1-Bailey,13,No,97
+"Perry County, Indiana",62,7,TELL CITY 5,5,Court of Appeals Dist 1-Bailey,13,No,85
+"Perry County, Indiana",62,8,TELL CITY 6,5,Court of Appeals Dist 1-Bailey,13,No,76
+"Perry County, Indiana",62,9,TELL CITY 7,5,Court of Appeals Dist 1-Bailey,13,No,71
+"Perry County, Indiana",62,10,TELL CITY 8,5,Court of Appeals Dist 1-Bailey,13,No,76
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,5,Court of Appeals Dist 1-Bailey,13,No,183
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,5,Court of Appeals Dist 1-Bailey,13,No,100
+"Perry County, Indiana",62,13,TROY,5,Court of Appeals Dist 1-Bailey,13,No,32
+"Perry County, Indiana",62,14,ANDERSON,5,Court of Appeals Dist 1-Bailey,13,No,136
+"Perry County, Indiana",62,15,CLARK 1,5,Court of Appeals Dist 1-Bailey,13,No,43
+"Perry County, Indiana",62,16,CLARK 2,5,Court of Appeals Dist 1-Bailey,13,No,40
+"Perry County, Indiana",62,17,LEOPOLD ,5,Court of Appeals Dist 1-Bailey,13,No,78
+"Perry County, Indiana",62,18,OIL,5,Court of Appeals Dist 1-Bailey,13,No,117
+"Perry County, Indiana",62,19,TOBIN,5,Court of Appeals Dist 1-Bailey,13,No,87
+"Perry County, Indiana",62,20,DERBY,5,Court of Appeals Dist 1-Bailey,13,No,31
+"Perry County, Indiana",62,21,RONO,5,Court of Appeals Dist 1-Bailey,13,No,18
+"Perry County, Indiana",62,1,CANNELTON 1,6,Court of Appeals Dist 5-Brown,14,Yes,89
+"Perry County, Indiana",62,2,CANNELTON 2,6,Court of Appeals Dist 5-Brown,14,Yes,196
+"Perry County, Indiana",62,3,TELL CITY 1,6,Court of Appeals Dist 5-Brown,14,Yes,273
+"Perry County, Indiana",62,4,TELL CITY 2,6,Court of Appeals Dist 5-Brown,14,Yes,222
+"Perry County, Indiana",62,5,TELL CITY 3,6,Court of Appeals Dist 5-Brown,14,Yes,217
+"Perry County, Indiana",62,6,TELL CITY 4,6,Court of Appeals Dist 5-Brown,14,Yes,301
+"Perry County, Indiana",62,7,TELL CITY 5,6,Court of Appeals Dist 5-Brown,14,Yes,253
+"Perry County, Indiana",62,8,TELL CITY 6,6,Court of Appeals Dist 5-Brown,14,Yes,223
+"Perry County, Indiana",62,9,TELL CITY 7,6,Court of Appeals Dist 5-Brown,14,Yes,201
+"Perry County, Indiana",62,10,TELL CITY 8,6,Court of Appeals Dist 5-Brown,14,Yes,220
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,6,Court of Appeals Dist 5-Brown,14,Yes,510
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,6,Court of Appeals Dist 5-Brown,14,Yes,296
+"Perry County, Indiana",62,13,TROY,6,Court of Appeals Dist 5-Brown,14,Yes,77
+"Perry County, Indiana",62,14,ANDERSON,6,Court of Appeals Dist 5-Brown,14,Yes,465
+"Perry County, Indiana",62,15,CLARK 1,6,Court of Appeals Dist 5-Brown,14,Yes,148
+"Perry County, Indiana",62,16,CLARK 2,6,Court of Appeals Dist 5-Brown,14,Yes,157
+"Perry County, Indiana",62,17,LEOPOLD ,6,Court of Appeals Dist 5-Brown,14,Yes,192
+"Perry County, Indiana",62,18,OIL,6,Court of Appeals Dist 5-Brown,14,Yes,308
+"Perry County, Indiana",62,19,TOBIN,6,Court of Appeals Dist 5-Brown,14,Yes,187
+"Perry County, Indiana",62,20,DERBY,6,Court of Appeals Dist 5-Brown,14,Yes,75
+"Perry County, Indiana",62,21,RONO,6,Court of Appeals Dist 5-Brown,14,Yes,88
+"Perry County, Indiana",62,1,CANNELTON 1,6,Court of Appeals Dist 5-Brown,15,No,30
+"Perry County, Indiana",62,2,CANNELTON 2,6,Court of Appeals Dist 5-Brown,15,No,81
+"Perry County, Indiana",62,3,TELL CITY 1,6,Court of Appeals Dist 5-Brown,15,No,96
+"Perry County, Indiana",62,4,TELL CITY 2,6,Court of Appeals Dist 5-Brown,15,No,75
+"Perry County, Indiana",62,5,TELL CITY 3,6,Court of Appeals Dist 5-Brown,15,No,72
+"Perry County, Indiana",62,6,TELL CITY 4,6,Court of Appeals Dist 5-Brown,15,No,94
+"Perry County, Indiana",62,7,TELL CITY 5,6,Court of Appeals Dist 5-Brown,15,No,84
+"Perry County, Indiana",62,8,TELL CITY 6,6,Court of Appeals Dist 5-Brown,15,No,72
+"Perry County, Indiana",62,9,TELL CITY 7,6,Court of Appeals Dist 5-Brown,15,No,65
+"Perry County, Indiana",62,10,TELL CITY 8,6,Court of Appeals Dist 5-Brown,15,No,72
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,6,Court of Appeals Dist 5-Brown,15,No,173
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,6,Court of Appeals Dist 5-Brown,15,No,96
+"Perry County, Indiana",62,13,TROY,6,Court of Appeals Dist 5-Brown,15,No,34
+"Perry County, Indiana",62,14,ANDERSON,6,Court of Appeals Dist 5-Brown,15,No,126
+"Perry County, Indiana",62,15,CLARK 1,6,Court of Appeals Dist 5-Brown,15,No,47
+"Perry County, Indiana",62,16,CLARK 2,6,Court of Appeals Dist 5-Brown,15,No,42
+"Perry County, Indiana",62,17,LEOPOLD ,6,Court of Appeals Dist 5-Brown,15,No,81
+"Perry County, Indiana",62,18,OIL,6,Court of Appeals Dist 5-Brown,15,No,92
+"Perry County, Indiana",62,19,TOBIN,6,Court of Appeals Dist 5-Brown,15,No,85
+"Perry County, Indiana",62,20,DERBY,6,Court of Appeals Dist 5-Brown,15,No,27
+"Perry County, Indiana",62,21,RONO,6,Court of Appeals Dist 5-Brown,15,No,19
+"Perry County, Indiana",62,1,CANNELTON 1,7,Court of Appeals Dist 4-May,16,Yes,90
+"Perry County, Indiana",62,2,CANNELTON 2,7,Court of Appeals Dist 4-May,16,Yes,204
+"Perry County, Indiana",62,3,TELL CITY 1,7,Court of Appeals Dist 4-May,16,Yes,278
+"Perry County, Indiana",62,4,TELL CITY 2,7,Court of Appeals Dist 4-May,16,Yes,236
+"Perry County, Indiana",62,5,TELL CITY 3,7,Court of Appeals Dist 4-May,16,Yes,221
+"Perry County, Indiana",62,6,TELL CITY 4,7,Court of Appeals Dist 4-May,16,Yes,316
+"Perry County, Indiana",62,7,TELL CITY 5,7,Court of Appeals Dist 4-May,16,Yes,259
+"Perry County, Indiana",62,8,TELL CITY 6,7,Court of Appeals Dist 4-May,16,Yes,232
+"Perry County, Indiana",62,9,TELL CITY 7,7,Court of Appeals Dist 4-May,16,Yes,213
+"Perry County, Indiana",62,10,TELL CITY 8,7,Court of Appeals Dist 4-May,16,Yes,227
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,7,Court of Appeals Dist 4-May,16,Yes,519
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,7,Court of Appeals Dist 4-May,16,Yes,302
+"Perry County, Indiana",62,13,TROY,7,Court of Appeals Dist 4-May,16,Yes,81
+"Perry County, Indiana",62,14,ANDERSON,7,Court of Appeals Dist 4-May,16,Yes,459
+"Perry County, Indiana",62,15,CLARK 1,7,Court of Appeals Dist 4-May,16,Yes,144
+"Perry County, Indiana",62,16,CLARK 2,7,Court of Appeals Dist 4-May,16,Yes,151
+"Perry County, Indiana",62,17,LEOPOLD ,7,Court of Appeals Dist 4-May,16,Yes,201
+"Perry County, Indiana",62,18,OIL,7,Court of Appeals Dist 4-May,16,Yes,302
+"Perry County, Indiana",62,19,TOBIN,7,Court of Appeals Dist 4-May,16,Yes,189
+"Perry County, Indiana",62,20,DERBY,7,Court of Appeals Dist 4-May,16,Yes,75
+"Perry County, Indiana",62,21,RONO,7,Court of Appeals Dist 4-May,16,Yes,83
+"Perry County, Indiana",62,1,CANNELTON 1,7,Court of Appeals Dist 4-May,17,No,33
+"Perry County, Indiana",62,2,CANNELTON 2,7,Court of Appeals Dist 4-May,17,No,73
+"Perry County, Indiana",62,3,TELL CITY 1,7,Court of Appeals Dist 4-May,17,No,91
+"Perry County, Indiana",62,4,TELL CITY 2,7,Court of Appeals Dist 4-May,17,No,67
+"Perry County, Indiana",62,5,TELL CITY 3,7,Court of Appeals Dist 4-May,17,No,68
+"Perry County, Indiana",62,6,TELL CITY 4,7,Court of Appeals Dist 4-May,17,No,81
+"Perry County, Indiana",62,7,TELL CITY 5,7,Court of Appeals Dist 4-May,17,No,77
+"Perry County, Indiana",62,8,TELL CITY 6,7,Court of Appeals Dist 4-May,17,No,66
+"Perry County, Indiana",62,9,TELL CITY 7,7,Court of Appeals Dist 4-May,17,No,63
+"Perry County, Indiana",62,10,TELL CITY 8,7,Court of Appeals Dist 4-May,17,No,75
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,7,Court of Appeals Dist 4-May,17,No,174
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,7,Court of Appeals Dist 4-May,17,No,93
+"Perry County, Indiana",62,13,TROY,7,Court of Appeals Dist 4-May,17,No,32
+"Perry County, Indiana",62,14,ANDERSON,7,Court of Appeals Dist 4-May,17,No,132
+"Perry County, Indiana",62,15,CLARK 1,7,Court of Appeals Dist 4-May,17,No,46
+"Perry County, Indiana",62,16,CLARK 2,7,Court of Appeals Dist 4-May,17,No,42
+"Perry County, Indiana",62,17,LEOPOLD ,7,Court of Appeals Dist 4-May,17,No,79
+"Perry County, Indiana",62,18,OIL,7,Court of Appeals Dist 4-May,17,No,97
+"Perry County, Indiana",62,19,TOBIN,7,Court of Appeals Dist 4-May,17,No,80
+"Perry County, Indiana",62,20,DERBY,7,Court of Appeals Dist 4-May,17,No,28
+"Perry County, Indiana",62,21,RONO,7,Court of Appeals Dist 4-May,17,No,23
+"Perry County, Indiana",62,1,CANNELTON 1,8,Court of Appeals Dist 5-Robb,18,Yes,92
+"Perry County, Indiana",62,2,CANNELTON 2,8,Court of Appeals Dist 5-Robb,18,Yes,201
+"Perry County, Indiana",62,3,TELL CITY 1,8,Court of Appeals Dist 5-Robb,18,Yes,275
+"Perry County, Indiana",62,4,TELL CITY 2,8,Court of Appeals Dist 5-Robb,18,Yes,240
+"Perry County, Indiana",62,5,TELL CITY 3,8,Court of Appeals Dist 5-Robb,18,Yes,221
+"Perry County, Indiana",62,6,TELL CITY 4,8,Court of Appeals Dist 5-Robb,18,Yes,316
+"Perry County, Indiana",62,7,TELL CITY 5,8,Court of Appeals Dist 5-Robb,18,Yes,244
+"Perry County, Indiana",62,8,TELL CITY 6,8,Court of Appeals Dist 5-Robb,18,Yes,216
+"Perry County, Indiana",62,9,TELL CITY 7,8,Court of Appeals Dist 5-Robb,18,Yes,216
+"Perry County, Indiana",62,10,TELL CITY 8,8,Court of Appeals Dist 5-Robb,18,Yes,224
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,8,Court of Appeals Dist 5-Robb,18,Yes,512
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,8,Court of Appeals Dist 5-Robb,18,Yes,297
+"Perry County, Indiana",62,13,TROY,8,Court of Appeals Dist 5-Robb,18,Yes,77
+"Perry County, Indiana",62,14,ANDERSON,8,Court of Appeals Dist 5-Robb,18,Yes,454
+"Perry County, Indiana",62,15,CLARK 1,8,Court of Appeals Dist 5-Robb,18,Yes,145
+"Perry County, Indiana",62,16,CLARK 2,8,Court of Appeals Dist 5-Robb,18,Yes,147
+"Perry County, Indiana",62,17,LEOPOLD ,8,Court of Appeals Dist 5-Robb,18,Yes,198
+"Perry County, Indiana",62,18,OIL,8,Court of Appeals Dist 5-Robb,18,Yes,302
+"Perry County, Indiana",62,19,TOBIN,8,Court of Appeals Dist 5-Robb,18,Yes,184
+"Perry County, Indiana",62,20,DERBY,8,Court of Appeals Dist 5-Robb,18,Yes,73
+"Perry County, Indiana",62,21,RONO,8,Court of Appeals Dist 5-Robb,18,Yes,85
+"Perry County, Indiana",62,1,CANNELTON 1,8,Court of Appeals Dist 5-Robb,19,No,32
+"Perry County, Indiana",62,2,CANNELTON 2,8,Court of Appeals Dist 5-Robb,19,No,77
+"Perry County, Indiana",62,3,TELL CITY 1,8,Court of Appeals Dist 5-Robb,19,No,91
+"Perry County, Indiana",62,4,TELL CITY 2,8,Court of Appeals Dist 5-Robb,19,No,63
+"Perry County, Indiana",62,5,TELL CITY 3,8,Court of Appeals Dist 5-Robb,19,No,73
+"Perry County, Indiana",62,6,TELL CITY 4,8,Court of Appeals Dist 5-Robb,19,No,84
+"Perry County, Indiana",62,7,TELL CITY 5,8,Court of Appeals Dist 5-Robb,19,No,91
+"Perry County, Indiana",62,8,TELL CITY 6,8,Court of Appeals Dist 5-Robb,19,No,77
+"Perry County, Indiana",62,9,TELL CITY 7,8,Court of Appeals Dist 5-Robb,19,No,58
+"Perry County, Indiana",62,10,TELL CITY 8,8,Court of Appeals Dist 5-Robb,19,No,77
+"Perry County, Indiana",62,11,TROY TOWNSHIP 1,8,Court of Appeals Dist 5-Robb,19,No,179
+"Perry County, Indiana",62,12,TROY TOWNSHIP 2,8,Court of Appeals Dist 5-Robb,19,No,94
+"Perry County, Indiana",62,13,TROY,8,Court of Appeals Dist 5-Robb,19,No,35
+"Perry County, Indiana",62,14,ANDERSON,8,Court of Appeals Dist 5-Robb,19,No,139
+"Perry County, Indiana",62,15,CLARK 1,8,Court of Appeals Dist 5-Robb,19,No,45
+"Perry County, Indiana",62,16,CLARK 2,8,Court of Appeals Dist 5-Robb,19,No,45
+"Perry County, Indiana",62,17,LEOPOLD ,8,Court of Appeals Dist 5-Robb,19,No,81
+"Perry County, Indiana",62,18,OIL,8,Court of Appeals Dist 5-Robb,19,No,99
+"Perry County, Indiana",62,19,TOBIN,8,Court of Appeals Dist 5-Robb,19,No,85
+"Perry County, Indiana",62,20,DERBY,8,Court of Appeals Dist 5-Robb,19,No,28
+"Perry County, Indiana",62,21,RONO,8,Court of Appeals Dist 5-Robb,19,No,22
